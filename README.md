@@ -67,6 +67,10 @@ The metrics below come from international programs delivered as part of a cross-
 4. **Produce** - entity-rich briefs and expert-led content mapped to one primary keyword per page
 5. **Amplify** - authority signals, digital PR, and AI-engine citations across the answer economy
 
+## Open Resources
+
+[**Explore the SEO Growth Playbook →**](https://github.com/darrell0808-ops/seo-growth-playbook) for a reusable technical SEO audit checklist, AI-search readiness framework, search-led content brief, and keyword architecture template.
+
 ## Platforms & Measurement
 
 Google Search Console · Google Analytics 4 · Semrush · Google Business Profile · Google AI Overviews · ChatGPT · Perplexity · Gemini · Copilot · Grok
@@ -75,10 +79,12 @@ Google Search Console · Google Analytics 4 · Semrush · Google Business Profil
 
 U.S. client names and performance data are protected under NDA. The public case studies in this repository are international engagements presented with explicit team attribution.
 
+## Rights & Use
+
+This portfolio and its case studies are published for professional review. No license file is provided; standard copyright rules apply. Do not reuse client names, metrics, visuals, or narrative as your own work.
+
 ## Work With Me
 
 I'm open to **senior remote SEO roles, consulting engagements, and agency partnerships** across the U.S. and Canada.
 
 [Email Darrell Locke](mailto:darrell0808@gmail.com) · [View my GitHub profile](https://github.com/darrell0808-ops)
-
-
