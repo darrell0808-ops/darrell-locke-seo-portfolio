@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Darrell Locke - SEO and Content Strategist</title>
+  <desc id="desc">Technical SEO, content strategy, and AI search optimization for global organic growth.</desc>
+  <rect width="1200" height="320" rx="28" fill="#13293D"/>
+  <circle cx="1120" cy="20" r="190" fill="#1D4563" opacity="0.72"/>
+  <circle cx="20" cy="325" r="150" fill="#0C2030" opacity="0.88"/>
+  <path d="M875 0h325v320H1015c-55-72-90-175-140-320Z" fill="#173A54" opacity="0.5"/>
+  <text x="72" y="72" fill="#F07A2A" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="6">SEO &amp; CONTENT STRATEGIST</text>
+  <text x="68" y="161" fill="#FFFFFF" font-family="Georgia,Times New Roman,serif" font-size="66" font-weight="700">Darrell <tspan fill="#F07A2A" font-style="italic">Locke.</tspan></text>
+  <text x="72" y="207" fill="#A9CBE3" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23">Organic growth engineered for the AI-search era.</text>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.6">
+    <rect x="72" y="244" width="170" height="40" rx="20" fill="#1D4563"/>
+    <text x="157" y="269" text-anchor="middle" fill="#FFFFFF">TECHNICAL SEO</text>
+    <rect x="254" y="244" width="187" height="40" rx="20" fill="#1D4563"/>
+    <text x="347" y="269" text-anchor="middle" fill="#FFFFFF">CONTENT STRATEGY</text>
+    <rect x="453" y="244" width="210" height="40" rx="20" fill="#C9571B"/>
+    <text x="558" y="269" text-anchor="middle" fill="#FFFFFF">AI SEARCH · GEO · AEO</text>
+  </g>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <text x="965" y="142" fill="#F07A2A" font-size="44" font-weight="800">15</text>
+    <text x="965" y="169" fill="#FFFFFF" font-size="12" font-weight="700" letter-spacing="2">YEARS IN SEO</text>
+    <text x="1091" y="142" fill="#F07A2A" font-size="44" font-weight="800">3</text>
+    <text x="1091" y="169" fill="#FFFFFF" font-size="12" font-weight="700" letter-spacing="2">MARKETS</text>
+  </g>
+</svg>
+
+
